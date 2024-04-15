@@ -59,3 +59,8 @@ nav{
   display: grid;
   column-gap: 50px;
 }
+
+.palmera{
+  height: 150px;
+  width: 150px;
+}
